@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+/*Learn about the css properties - LAST*/
+nav{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(73, 79, 82);
+  color: white;
+}
+
+.nav-links{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 50%;
+  list-style:none;
+}
